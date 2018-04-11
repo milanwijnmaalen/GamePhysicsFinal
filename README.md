@@ -9,6 +9,8 @@ U - Open bag
 
 B - Drop ball into bag
 
+Left mouse button on bag - set the clicked vertex as static
+
 Middle mouse button - move camera
 
 Right mouse button - pan camera
